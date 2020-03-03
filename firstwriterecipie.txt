@@ -12,3 +12,11 @@ Milk
 Chocalates
 
 Adding thank you
+
+******
+In coding there are minor changes of version and major changes of version.Imagine now we want to go to 5.0 version from 4.7 version.So 
+I create another branch and try to check whether it is working properly
+
+Master branch does not contain the things in newly created branch.Can we merge these two.
+
+Done

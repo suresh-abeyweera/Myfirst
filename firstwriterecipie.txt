@@ -6,3 +6,7 @@ Rice and curry
 Apple
 Orange
 Vegetables
+
+Adding new list 
+Milk
+Chocalates
